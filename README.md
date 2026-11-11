@@ -1,5 +1,5 @@
-# Gather & Green, family app
+# Sufra
 
-The family kitchen app (web version for the family trial). Open https://rezoss.github.io/Sufra-family/
+The Sufra family kitchen app (web version for the family trial).
 
-This folder only holds the finished page. The source is kept in the private project.
+This folder only holds the finished page. The source is kept in a private project.
